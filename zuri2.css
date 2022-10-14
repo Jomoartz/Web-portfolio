@@ -1,0 +1,72 @@
+body{
+    background: #918323;}
+
+h1{ font-size: 1.25em;
+    font-style: verdana;
+    color:rgb(54, 41, 6) ;
+    background: linear-gradient(to bottom,#f9fc35, #f2f2e4 );}
+
+
+ul{background-image: url('https://static.wixstatic.com/media/fb5049_d42b3fb1cdc74bda86d3991874142ad2~mv2.png/v1/fill/w_317,h_293,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Frame%2011852.png');
+    
+    
+    background-size:100% 200%;
+    background-repeat: no-repeat;
+}
+
+#intro{font-size: 1.25em;
+    font-style: verdana;
+    color:rgb(54, 41, 6) ;
+    background: linear-gradient(to bottom,#f9fc35, #f2f2e4 )
+}
+    
+img{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+.icon{
+    width: 5%;
+    height: 3%;
+}
+
+.nav-bar{
+    justify-content: right;
+}
+#hello{ 
+    font-weight: bold;
+    font-style: italic;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/1777/1777728.png');}
+    
+    
+.projects{
+         background: linear-gradient(to bottom,#f9fc35, #f2f2e4);
+}
+
+.project{
+         background: linear-gradient(to top, #fce135, #f2f2e4);
+}
+
+
+
+#services{ 
+        background: linear-gradient(to top,#fce135, #d1b817);
+        font-size: 1.25em;
+}
+#ppicture{
+    
+  border-radius: 50%;
+  padding: 5px;
+  width: 150px;
+}
+
+#profilecaption{
+    background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: right;
+}
+
